@@ -1,5 +1,5 @@
 # 💫 About Me:
-Strong in design and integration with intuitive problem-solving skills.<br>Proficient in C, Python, JavaScript, TypeScript and MySQL.<br>Passionate about implementing and launching new projects, and doing practice labs on platforms like SkillSoft and TryHackMe.<br>Have proficient technical knowledge in Computer Networks, Cyber Security, Ethical Hacking and Penetration Testing.
+Strong in design and integration with intuitive problem-solving skills.<br>Proficient in C, Python, JavaScript, TypeScript and MySQL.<br>Passionate about implementing and launching new projects, and doing practice labs on platforms like SkillSoft and TryHackMe.<br>Have proficient technical knowledge in Computer Network, Cyber Security, Ethical Hacking and Penetration Testing.
 
 
 ## 🌐 Socials:
